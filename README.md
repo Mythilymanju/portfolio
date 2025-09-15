@@ -7,7 +7,7 @@ This is a responsive and modern portfolio website built using **HTML, CSS, JavaS
 ## 🚀 Live Demo
 
 🔗 [View Portfolio](https://mythilymanju.github.io/portfolio/)  
-📄 [Download Resume][Download Resume](document/Mythily_resume.pdf)
+📄 [Download Resume](document/Mythily_resume.pdf)
 
 
 ---
